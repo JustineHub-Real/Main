@@ -1,0 +1,5 @@
+if game.PlaceId == 127925619768215 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JustineHub-Real/AllScripts/refs/heads/main/Miside%20RP%20(3D%20Morphs).txt"))()
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JustineHub-Real/UniversalExploit/refs/heads/main/-"))()
+end
